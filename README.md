@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of repian is to ...
+The goal of repian is to study how to start a R package programming.
 
 ## Installation
 
