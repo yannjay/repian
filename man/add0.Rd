@@ -18,5 +18,5 @@ numeric
 add two numbers
 }
 \examples{
-add0(2,5)
+add0(2, 5)
 }
