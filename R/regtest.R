@@ -7,6 +7,6 @@
 #'
 #' @examples
 #' regtest("apple")
-regtest <- function(s){
-  stringr::str_detect(s,"^*le$")
+regtest <- function(s) {
+  stringr::str_detect(s, "^*le$")
 }

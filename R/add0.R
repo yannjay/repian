@@ -7,7 +7,7 @@
 #' @export
 #'
 #' @examples
-#' add0(2,5)
+#' add0(2, 5)
 add0 <- function(a, b) {
   a + b
 }
