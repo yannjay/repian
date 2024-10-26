@@ -1,3 +1,3 @@
 test_that("addtion works", {
-  expect_equal(2 + 3, 5)
+  expect_equal(add0(2,3), 5)
 })
