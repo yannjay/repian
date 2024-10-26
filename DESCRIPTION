@@ -1,6 +1,6 @@
 Package: repian
 Title: Analysis of Commonly Used Epidemiological Data in CDC
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: 
     person("Yang", "Longjian", , "358444845@qq.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
